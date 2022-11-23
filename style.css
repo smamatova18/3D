@@ -46,7 +46,9 @@
     width: 300px;
     background: #6701b0;
     transform: rotateX(90deg) translateZ(-300px);
-    filter:blur(25px);
+    filter:blur(25px);    
+
+    
 }
 .bx-light{
     position: absolute;
